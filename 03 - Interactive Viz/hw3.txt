@@ -1,6 +1,0 @@
-- data illustration & download
-p3: projects people publications
-http://p3.snf.ch/Pages/DataAndDocumentation.aspx
-
-* raw data (4 csv, columns seperated by ;)
-* diversity existing projects
